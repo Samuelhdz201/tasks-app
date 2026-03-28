@@ -1,0 +1,8 @@
+{
+  "name": "tasks-worker",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-01-01",
+  "vars": {
+    "WORKER_BACKEND_URL": "http://localhost:3000"
+  }
+}
