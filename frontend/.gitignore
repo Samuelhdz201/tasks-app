@@ -1,8 +1,5 @@
 node_modules/
 dist/
 .env
-frontend/node_modules/
-frontend/dist/
-worker/node_modules/
 worker/.dev.vars
 test-output.txt
